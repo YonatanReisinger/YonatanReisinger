@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **multiple projects at Sport 5, automating manual tasks to enhance efficiency**
 
-- 🌱 I’m currently learning **Computer Science at The Academic College of Tel Aviv–Yaffo**
+- 🌱 I’m currently studying **Computer Science at The Academic College of Tel Aviv–Yaffo**
 
 - ❤️‍🔥 My Passion is to **leverage technologies to solve real-life problems**
 
